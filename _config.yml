@@ -1,0 +1,23 @@
+title: "ffffffchopin"
+description: "Personal blog"
+author: "ffffffchopin"
+lang: "zh-CN"
+timezone: "Asia/Shanghai"
+
+theme: minima
+
+# Show excerpts on the home page post list
+show_excerpts: true
+excerpt_separator: "<!--more-->"
+
+# Clean-ish URLs for posts
+permalink: /blog/:year/:month/:day/:title/
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+minima:
+  skin: auto
+  social_links:
+    - { platform: github,  user_url: "https://github.com/ffffffchopin" }
