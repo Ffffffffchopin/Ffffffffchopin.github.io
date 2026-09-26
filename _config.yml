@@ -1,10 +1,8 @@
-title: "HsuYugo's Blog"
-description: "Personal blog"
-author: "HsuYugo"
-lang: "zh-CN"
+title: "Yuhao Xu | HsuYugo"
+description: "Independent AI researcher and systems builder working on memory, learning, agents, and embodied intelligence."
+author: "Yuhao Xu"
+lang: "en"
 timezone: "Asia/Shanghai"
-
-theme: minima
 
 # Show excerpts on the home page post list
 show_excerpts: true
@@ -13,11 +11,5 @@ excerpt_separator: "<!--more-->"
 # Clean-ish URLs for posts
 permalink: /blog/:year/:month/:day/:title/
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-minima:
-  skin: auto
-  social_links:
-    - { platform: github,  user_url: "https://github.com/ffffffchopin" }
+header_pages:
+  - about.md
