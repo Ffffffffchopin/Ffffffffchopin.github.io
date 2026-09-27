@@ -1,13 +1,15 @@
 # ffffffffchopin.github.io
 
 Personal research portfolio for Yuhao Xu / HsuYugo. The site keeps the original
-Jekyll notes area and adds case studies for four open research projects:
-TriMemory, CrowdTensor, NeuralEngine, and Oblivionis.
+Jekyll notes area and adds case studies for five open research and engineering
+projects, with NeuralEngine as the core project: NeuralEngine, the Intelligent
+Logistics Rover, TriMemory, CrowdTensor, and Oblivionis.
 
 The portfolio intentionally separates observed evidence from active hypotheses.
-Project images are copied from the corresponding project repositories' existing
-research or engineering artifacts; no private logs, credentials, or local
-environments are published here.
+Project images are copied from the corresponding project repositories or the
+author's engineering archive. The logistics-rover page includes selected build
+photographs, CAD/PCB artifacts, and a short prototype video; no credentials or
+local environments are published here.
 
 ## 写文章
 在 `_posts/` 新建文件：

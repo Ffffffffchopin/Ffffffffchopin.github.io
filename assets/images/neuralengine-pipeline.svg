@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" role="img" aria-labelledby="title desc">
+  <title id="title">NeuralEngine source to world system map</title>
+  <desc id="desc">A conceptual system map connecting a structured source program to a runtime world and measured behavior.</desc>
+  <rect width="1200" height="480" fill="#101719"/>
+  <path d="M76 104H1124M76 376H1124" stroke="#2d3b3e" stroke-width="1"/>
+  <path d="M250 240H330M530 240H610M810 240H890" stroke="#a6b6b9" stroke-width="2"/>
+  <path d="M318 231l14 9-14 9M598 231l14 9-14 9M878 231l14 9-14 9" fill="none" stroke="#b8e538" stroke-width="2"/>
+  <g font-family="monospace" fill="#a6b6b9" font-size="14" letter-spacing="1">
+    <text x="76" y="70" fill="#b8e538">NEURALENGINE / CONCEPT MAP</text>
+    <text x="76" y="420">A candidate is useful only after its consequence is observable.</text>
+    <text x="76" y="143">PROPOSAL</text>
+    <text x="330" y="143">CONTRACT</text>
+    <text x="610" y="143">RUNTIME</text>
+    <text x="890" y="143">EVIDENCE</text>
+  </g>
+  <g stroke-width="2">
+    <rect x="76" y="185" width="174" height="110" fill="#172126" stroke="#6da7ff"/>
+    <rect x="330" y="185" width="200" height="110" fill="#172126" stroke="#ff7f68"/>
+    <rect x="610" y="185" width="200" height="110" fill="#172126" stroke="#b8e538"/>
+    <rect x="890" y="185" width="234" height="110" fill="#172126" stroke="#b396ff"/>
+  </g>
+  <g font-family="sans-serif" fill="#f7f9fa">
+    <text x="100" y="224" font-size="22" font-weight="700">source</text>
+    <text x="100" y="253" font-size="14" fill="#a6b6b9">structured program</text>
+    <text x="100" y="276" font-size="14" fill="#a6b6b9">intent + objects</text>
+    <text x="354" y="224" font-size="22" font-weight="700">parse / bind</text>
+    <text x="354" y="253" font-size="14" fill="#a6b6b9">typed interfaces</text>
+    <text x="354" y="276" font-size="14" fill="#a6b6b9">scene contracts</text>
+    <text x="634" y="224" font-size="22" font-weight="700">Godot world</text>
+    <text x="634" y="253" font-size="14" fill="#a6b6b9">state transitions</text>
+    <text x="634" y="276" font-size="14" fill="#a6b6b9">visible behavior</text>
+    <text x="914" y="224" font-size="22" font-weight="700">evidence</text>
+    <text x="914" y="253" font-size="14" fill="#a6b6b9">replay + checks</text>
+    <text x="914" y="276" font-size="14" fill="#a6b6b9">accept / reject</text>
+  </g>
+  <g fill="#101719" stroke="#607077" stroke-width="1">
+    <circle cx="250" cy="240" r="5" fill="#6da7ff"/>
+    <circle cx="530" cy="240" r="5" fill="#ff7f68"/>
+    <circle cx="810" cy="240" r="5" fill="#b8e538"/>
+    <circle cx="890" cy="240" r="5" fill="#b396ff"/>
+  </g>
+</svg>
