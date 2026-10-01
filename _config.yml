@@ -13,3 +13,4 @@ permalink: /blog/:year/:month/:day/:title/
 
 header_pages:
   - about.md
+  - accepted-papers.md
